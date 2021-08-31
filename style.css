@@ -22,7 +22,7 @@ h1{
     overflow: hidden;
     background-color: #252A34;
     font-family: Arial;
-    position: fixed;
+/*     position: fixed; */
     width: 100%;
 }
 
